@@ -1,0 +1,15 @@
+body{
+	background: rgb(175,175,175);
+}
+.container{
+	margin: 1em;
+	text-align: center;
+	background: white;
+	padding: 1em;
+	box-shadow: 0 0 10px black;
+	border-radius: .5em;
+}
+
+input[type="text"]{
+	text-align: center;
+}
